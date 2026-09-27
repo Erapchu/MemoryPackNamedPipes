@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Weather.Client/Weather.Client.csproj" />
+    <Project Path="src/Weather.Contracts/Weather.Contracts.csproj" />
+    <Project Path="src/Weather.Server/Weather.Server.csproj" />
+  </Folder>
+</Solution>
